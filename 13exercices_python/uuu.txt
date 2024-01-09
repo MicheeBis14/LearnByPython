@@ -1,0 +1,20 @@
+# great_number = 0
+# indice = 0
+# nb_verification =5
+
+# while nb_verification != 0:
+#     nombre = int(input("Entrez un nombre please : "))
+
+#     indice += 1
+
+# if nombre > great_number:
+#     great_number = nombre
+#     indice_great = indice
+#     print("Le plus grand nombre saisi est : " + str(great_number))
+#     print("Ce grand nombre a été saisi à la position : " + str(indice_great))
+
+# if nombre == 0:
+#     print("Désolé ERREUR")
+# # 
+
+# plus_grand = float('-inf')

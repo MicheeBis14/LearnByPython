@@ -1,0 +1,13 @@
+Glossaire : 
+Mind map : 
+Cheat Sheet
+
+2eme Jour 
+
+- Les variables
+- Les affectations
+- Règles et conventions de nommage
+- Le type d'objets et conversions
+- Intéragir avec l'utilisateur
+- Apprendre à resoudre des problèmes
+- EXERCICES
